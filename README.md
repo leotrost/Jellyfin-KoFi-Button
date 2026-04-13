@@ -1,7 +1,7 @@
 # Jellyfin-KoFi-Button
 
 Heart button to donate, powered by JavaScript Injector plugin. Works in mobile apps, too!
-
+## Screenshots
 <img width="190" height="77" alt="Screenshot 2026-04-13 134615" src="https://github.com/user-attachments/assets/f84bfdb6-7e81-4da0-86a4-2f0b0afb29a1" />
 <br></br>
 Heart icon
