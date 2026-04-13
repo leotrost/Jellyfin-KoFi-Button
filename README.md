@@ -6,12 +6,9 @@ Heart button to donate, powered by JavaScript Injector plugin. Works in mobile a
 <br></br>
 Heart icon
 <br></br>
-<br></br>
 <img width="374" height="622" alt="Screenshot 2026-04-13 134640" src="https://github.com/user-attachments/assets/50f2b479-9224-49ad-9c08-a7a54512dd26" />
 <br></br>
 In-browser widget popup
-<br></br>
-<br></br>
 ## Install Instructions
 1. Install the JS Inector plugin - https://github.com/n00bcodr/Jellyfin-JavaScript-Injector
 2. Within Plugins > JS Injector, add a script, name it "KoFi Button" or similar for reference, then paste the raw code of the jellyfin-ko-fi.js file in this project, editing the username to reflect your Ko-Fi username, then save
