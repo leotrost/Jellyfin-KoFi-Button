@@ -15,6 +15,6 @@ In-browser widget popup
 
 ## Install Instructions
 
-1. Install the JS Inector plugin - https://github.com/n00bcodr/Jellyfin-JavaScript-Injector <br></br>
+1. Install the JS Injector plugin - https://github.com/n00bcodr/Jellyfin-JavaScript-Injector <br></br>
 2. Within Plugins > JS Injector, add a script, name it "KoFi Button" or similar for reference, then paste the raw code of the jellyfin-ko-fi.js file in this project, editing the username to reflect your Ko-Fi username, then save <br></br>
 3. Hard refresh your browser (ctrl + f5, shift + refresh, or clear site data) and test! <br></br>
