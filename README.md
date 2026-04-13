@@ -9,7 +9,6 @@ Heart button to donate, powered by JavaScript Injector plugin. Works in mobile a
 Heart icon
 <br></br>
 <img width="989" height="807" alt="Screenshot 2026-04-13 135140" src="https://github.com/user-attachments/assets/2bde4a32-ced5-4488-ad4b-fd2fe7d6795c" />
-Donate popup widget
 <br></br>
 In-browser widget popup
 <br></br>
