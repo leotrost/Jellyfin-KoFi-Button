@@ -10,6 +10,7 @@ Heart icon
 Donate popup widget
 <br></br>
 In-browser widget popup
+<br></br>
 ## Install Instructions
 1. Install the JS Inector plugin - https://github.com/n00bcodr/Jellyfin-JavaScript-Injector <br></br>
 2. Within Plugins > JS Injector, add a script, name it "KoFi Button" or similar for reference, then paste the raw code of the jellyfin-ko-fi.js file in this project, editing the username to reflect your Ko-Fi username, then save <br></br>
